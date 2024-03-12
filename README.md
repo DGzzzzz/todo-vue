@@ -1,5 +1,9 @@
 # todo-vue
+Projeto desenvolvido no curso da EBAC. Utilizado framework Vue.JS e para estilização o framework Bootstrap. <br>
+Para visualizar o projeto - [vercel](https://dg-todo-vue.vercel.app/) <br>
+Implementado funcionalidades para cadastrar tarefas, filtrar por tarefas pendentes, finalizadas ou todas elas. 
 
+#
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
