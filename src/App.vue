@@ -14,7 +14,7 @@
       },
       {
         titulo: 'Estudar SASS',
-        finalizada: false,
+        finalizada: true,
       },
       {
         titulo: 'Ir para a academia',
